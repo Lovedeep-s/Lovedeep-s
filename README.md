@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lovedeep singh
+- 🏫 I'm currrently learning in Thapar Institute of engineering 
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Projects
