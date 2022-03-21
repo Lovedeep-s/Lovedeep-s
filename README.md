@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lovedeep
 #### I am Student in Thapar Institute of Engineering and Technology
-![I am Student in Thapar Institute of Engineering and Technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Student in Thapar Institute of Engineering and Technology]
 
 I make this project just for fun, I want to learn about Game development.
 Now learning Web Development
